@@ -1,4 +1,4 @@
-# Structure-Function_Coupling_VGCL
+# SFC_difference
 
 This is the code for the bioRxiv preprint: ***[Informational and methodological differences in regional structure-function coupling in modeling approaches](https://doi.org/10.1101/2025.10.26.684597)***.
 
